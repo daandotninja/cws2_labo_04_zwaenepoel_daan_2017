@@ -1,0 +1,14 @@
+{
+  "name": "cws2_labo_04_zwaenepoel_daan_2017",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

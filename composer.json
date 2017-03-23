@@ -1,0 +1,12 @@
+{
+    "name": "daan/cws2_labo_04_zwaenepoel_daan_2017",
+    "authors": [
+        {
+            "name": "Daan Zwaenepoel",
+            "email": "daan.zwaenepoel@student.odsiee.be"
+        }
+    ],
+    "require": {
+        "twig/twig": "^1.32"
+    }
+}
